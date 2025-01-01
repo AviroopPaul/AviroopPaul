@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aviroop
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dami7wcek/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1735745025/IMG_1420_iwjibk.jpg">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dami7wcek/image/upload/v1735745025/IMG_1420_iwjibk.jpg">
 
 ## 🧑‍💻 Bio
 
