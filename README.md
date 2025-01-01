@@ -29,18 +29,6 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2b6bbc)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2b6bbc)
 
-## 📊 GitHub Activity
-
-![Total Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AviroopPaul&theme=github)
-
-## 🔝 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AviroopPaul&layout=compact&theme=radical)
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avirooppaul/)
