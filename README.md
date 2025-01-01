@@ -6,6 +6,10 @@
 
 👨‍💻 | 📸 | ✈️
 
+## 💼 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1aONZIDSpgB6D0MS7YF0mieiGeaK-3txZ/view)
+
 ## 💼 Experience
 
 - 🚀 **Software Development Engineer 1** at Think41 (Present)
