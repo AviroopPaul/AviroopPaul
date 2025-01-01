@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Bio
 
-Dev. Occasional Photographer and Traveller.
+👨‍💻 📸 ✈️
 
 ## 💼 Experience
 
