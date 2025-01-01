@@ -9,7 +9,7 @@
 ## 💼 Experience
 
 - 🚀 <img src="https://media.licdn.com/dms/image/v2/D560BAQGsC2cDNe68Pw/company-logo_200_200/company-logo_200_200/0/1718175225079/think41_logo?e=2147483647&v=beta&t=bqhY8WjuoC4u_z_fLllhB40W4nBXiRKMCfWaeX8UQNc" alt="Think41 Logo" width="60" height="60"> **Software Development Engineer 1** at Think41 (Present)
-- 💻 <img src="https://www.nokia.com/sites/default/files/styles/scale_720_not_convert_webp/public/2023-02/nokia-refreshed-logo-2_1.png" alt="Nokia Logo" width="60" height="60"> **Software Development Engineer Intern** at Nokia
+- 💻 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeET_NsBiToZY_E2A-EXv2VaZK4TQuzS3eYA&s" alt="Nokia Logo" width="60" height="60"> **Software Development Engineer Intern** at Nokia
 
 ## 🛠️ Technologies & Tools
 
