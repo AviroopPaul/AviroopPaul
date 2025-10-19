@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aviroop
 
-<img alt="Coding" width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQENxKLH0ShaMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1691060504228?e=1741219200&v=beta&t=gAwohH59pqqgslT9sGqikGAPQ9SImxA8tnv4PvXwb1M">
+<img width="618" height="240" alt="image" src="https://github.com/user-attachments/assets/a3cfef2e-f2ca-441e-a866-aaf3e6e0e009" />
 
 ## 🧑‍💻 Bio
 
@@ -12,7 +12,7 @@
 
 ## 💼 Experience
 
-- 🚀 **Software Development Engineer 1** at Think41 (Present)
+- 🚀 **Senior Software Development Engineer** at Think41 (Present)
 - 💻 **Software Development Engineer Intern** at Nokia
 
 ## 🛠️ Technologies & Tools
