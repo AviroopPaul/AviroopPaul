@@ -15,6 +15,7 @@
 
 ## What I am building
 
+- **[bleep](https://github.com/AviroopPaul/bleep)** · a free, open source AI buddy for your Mac: watches Claude Code, Codex, Gmail and Calendar, and taps you only when it matters
 - **[chaoslab](https://github.com/AviroopPaul/chaoslab)** · put a system on a whiteboard, crank it to 500M users, watch queueing math decide what melts
 - **[snipbar](https://github.com/AviroopPaul/snipbar)** · select text on any site and get a tiny bar under it: copy, search, or ask
 - **[agentconf](https://github.com/AviroopPaul/agentconf)** · read-only UI over `~/.claude`, `~/.codex`, `~/.cursor` and friends
